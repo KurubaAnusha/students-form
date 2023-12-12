@@ -1,0 +1,75 @@
+
+#main{
+    border: 2px solid black;
+    text-align: center;
+    line-height: 2px;
+    padding: 40px; 
+}
+#main h5{
+    line-height: 25px;
+}
+#logo{
+    float: left;
+    margin: -20px auto auto -20px;
+}
+
+h5{
+    /* font-style: italic; */
+    font-weight:lighter;
+}
+.bill{
+    float: left;
+    margin: 10px auto auto -20px;
+}
+#photo{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    float: right;
+    
+    /* padding: 15px 10px 15px 10px;
+    margin: -10px 5px 5px 5px; */
+}
+#center{
+text-align: center;
+line-height: 20px;
+}
+#main .side{
+    margin: 30px auto auto -210px;
+    /* position: fixed; */
+    float: left;
+}
+#forms{
+    text-align: left;
+    margin: 60px auto auto -20px;
+
+}
+input{
+    border: none;
+    width: 300px;
+    border-bottom: 1px solid black;
+    margin: 10px;
+}
+#terms{
+    margin: 10px auto auto 30px;
+    text-align: left;
+    line-height: 20px;
+
+}
+.middle{
+    margin: 30px auto auto 50px;
+    line-height: 20px;
+}
+.sign{
+    margin: 40px 20px 30px auto;
+    float: right;
+}
+#table{
+    margin: 100px  auto auto 100px;
+    align-content: center;
+}
+.thanks{
+    margin: auto;
+    text-align: center;
+    line-height: 20px;
+}
